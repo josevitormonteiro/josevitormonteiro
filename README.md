@@ -1,6 +1,5 @@
 ### Hi there, Im José Vitor 😁👋
 
-- Working on: 
 - 🌠 Skills: Html, Css, C# and a litte of SQL
 - 💻Working on: Image classification with Ml.NET
 - 🌱 I’m currently learning: Js, .Ml.net, Net.core

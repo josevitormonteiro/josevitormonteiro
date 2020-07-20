@@ -1,5 +1,7 @@
 ### Hi there, Im José Vitor 😁👋
 
+A 17yo student passionate about technology 👾
+
 - 🌠 Skills: Html, Css, C# and a litte of SQL
 - 💻Working on: Image classification with Ml.NET
 - 🌱 I’m currently learning: Js, .Ml.net, Net.core

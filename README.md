@@ -8,5 +8,5 @@ A 17yo student passionate about technology 👾
 - 📫 Reach me: José Vitor#7851 in [Discord](https://discord.com/new), JMonteiro in [Anilist](https://anilist.co/).
 - 📚 Hobbies: Anime, Programming and play osu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I liked Domestic no Kanojo
+- ⚡ Fun fact: I like anime 😁
 

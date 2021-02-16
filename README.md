@@ -3,7 +3,7 @@
 A 17yo student passionate about technology 👾
 
 - 🌠 Skills: Html, Css, Js, C#
-- 💻Working on: Personal Projects
+- 💻Working on: Internship at Uppercase Consultoria
 - 🌱 I’m currently learning: Js, React, Nodejs
 - 📫 Reach me: José Vitor#7851 in [Discord](https://discord.com/new), JMonteiro in [Anilist](https://anilist.co/).
 - 📚 Hobbies: Anime, Programming, Linux

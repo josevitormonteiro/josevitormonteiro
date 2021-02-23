@@ -9,3 +9,5 @@ A 17yo student passionate about technology 👾
 - 📚 Hobbies: Anime, Programming
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like anime 😁 and love playing Osu!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajosevitormonteiro)](https://github.com/josevitormonteiro/github-readme-stats)
